@@ -1,5 +1,4 @@
 ﻿int   count = 0,
-
       firstFriendSpeed = 1,
       secondFriendSpeed = 2,
       dogSpeed = 5,
